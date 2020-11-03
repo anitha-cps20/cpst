@@ -10,8 +10,8 @@ import time
 class ClinicalInterventionCategory_test():
     def test(self):
         global driver
-        #global category_name
-        #category_name = "test852020"
+        global category_name
+        category_name = "test3112020"
     # To Launch Telemanage Application
 
 driver = webdriver.Chrome('P://IT Transformation -Automation//WPR//WPR//ChromeDriver2//chromedriver.exe')
